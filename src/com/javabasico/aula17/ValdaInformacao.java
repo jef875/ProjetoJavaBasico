@@ -1,4 +1,6 @@
-package com.javabasico.aula17;
+//este códico não funciona perfeitamente
+
+package com.javabasico.aula17;		
 
 import java.util.Scanner;
 
